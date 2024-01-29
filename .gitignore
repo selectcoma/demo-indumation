@@ -1,0 +1,5 @@
+anomalib/
+data/
+cache/
+lightning_logs/
+weights/
